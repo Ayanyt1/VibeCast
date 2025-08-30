@@ -1,4 +1,4 @@
-# Harmonia Bot
+# VibeCast Bot
 
 VibeCast is a Discord bot designed to provide music playback, utility commands, and audio filters for your server.
 
